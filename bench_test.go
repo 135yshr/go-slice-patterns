@@ -3,7 +3,6 @@ package main
 import (
 	"bytes"
 	"encoding/json"
-	"math/rand"
 	"sort"
 	"strconv"
 	"strings"
